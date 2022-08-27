@@ -1,4 +1,8 @@
-<img alt="aapeli haanpuu – senior software developer" src="https://user-images.githubusercontent.com/8556569/187024196-f7bbd02b-5415-4d33-abc3-339994206f3a.svg" />
+<img 
+     alt="aapeli haanpuu – senior software developer" 
+     src="https://user-images.githubusercontent.com/8556569/187027180-bc8ef27e-53cd-495b-98ea-c68505e0cf6c.svg" 
+/>
+
 
 ---
 
