@@ -1,6 +1,6 @@
 <img
      alt="aapeli haanpuu – senior software developer"
-     src="https://user-images.githubusercontent.com/8556569/187027232-597b5d64-b027-4e67-b6b6-f875c4c2deec.svg"
+     src="https://github-contributions-widget.vercel.app?username=aapzu&imageFormat=png"
 />
 
 
