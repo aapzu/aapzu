@@ -1,4 +1,4 @@
-<a href="https://github.com/aapzu/github-contribution-widget">
+<a href="https://github.com/aapzu/github-contributions-widget">
      <img
      title="The background of this banner is dynamically built based on my Github contribution history! Check https://github.com/aapzu/github-contributions-widget"
           alt="aapeli haanpuu – senior software developer"
