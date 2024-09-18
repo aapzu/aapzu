@@ -1,7 +1,7 @@
 <a href="https://github.com/aapzu/github-contribution-widget">
      <img
      title="The background of this banner is dynamically built based on my Github contribution history! Check https://github.com/aapzu/github-contribution-widget"
-          alt="aapeli haanpuu – senior software developer"
+          alt="aapeli – senior software developer"
           src="https://github-contributions-widget.vercel.app?username=aapzu&imageFormat=png"
      />
 </a>
